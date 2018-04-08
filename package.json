@@ -1,0 +1,11 @@
+{
+  "name": "recursive-memory",
+  "version": "1.0.0",
+  "description": "Showcase how to create a recursive in-memory app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": " Rubén Sospedra",
+  "license": "MIT"
+}
